@@ -1,0 +1,9 @@
+.navbar-text {
+  display: inline-block;
+  vertical-align: top;
+  height: 80px;
+  line-height: 80px;
+  margin-left: 10px;
+  font-size: 24px;
+  color: white;
+}
