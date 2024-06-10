@@ -1,3 +1,56 @@
+# GitHub API User Search
+
+## Overview
+
+GitHub API User Search is a simple application that allows users to search for GitHub profiles by username. It utilizes the GitHub REST API to fetch user data and displays relevant information such as the user's name, followers, following, repositories and more.
+
+## Features
+
+- Search for GitHub users by username.
+- Display user profile information including:
+  - Username
+  - Number of public repositories
+  - Number of followers
+  - Number of following
+  - Profile picture
+  - Links to repositories
+- Responsive and user-friendly interface.
+
+## Demo
+
+[Include a link to a live demo if available]
+
+## Screenshots
+
+[Include screenshots of the application]
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/github-api-user-search.git
+    cd github-api-user-search
+    ```
+
+2. **Install dependencies:**
+
+    For a Node.js environment, run:
+
+    ```bash
+    npm install
+    ```
+
+3. **Run the application:**
+
+    For a Node.js environment, run:
+
+    ```bash
+    npm start
+    ```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -49,22 +102,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
